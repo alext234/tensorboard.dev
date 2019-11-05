@@ -35,5 +35,5 @@ See [mnist.ipynb](mnist.ipynb) for a Jupyter notebook that uses Tensorflow `tf.k
 
 Here is a screenshot of the page
 
-![](images/tensorboard-dev-mnist.png?raw=true)
+![](images/tensorboard-dev-mnist.png?raw=true | width=500)
 
