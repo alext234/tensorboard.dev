@@ -1,4 +1,4 @@
-`https://tensorboard.dev/`  is the new service from Google that enables us to conveniently host, track, and share your ML experiments for free.
+https://tensorboard.dev/  is the a new service from Google that enables us to conveniently host, track, and share your ML experiments for free.
 
 Below are some simple instructions on how to use it with Jupyter notebooks.
 
