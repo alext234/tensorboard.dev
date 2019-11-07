@@ -33,7 +33,12 @@ Open the link in the browser to view experiments results.
 
 See [mnist.ipynb](mnist.ipynb) for a Jupyter notebook that uses Tensorflow `tf.keras` for training with the `mnist` dataset of handwritten digits. Training statistics are written into `logs` dir and will be uploaded live to `tensorboard.dev`.
 
-Here is a screenshot of the page
+Here are some screenshots:
+
+* Scalars
 
 ![](images/tensorboard-dev-mnist.png?raw=true)
 
+
+* Images of confusion matrixes which are logged at the end of each epoch
+![](images/tensorboard-images-cm.png?raw=true)
